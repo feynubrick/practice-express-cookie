@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/feynubrick/practice-express-cookie/issues"
   },
-  "homepage": "https://github.com/feynubrick/practice-express-cookie#readme"
+  "homepage": "https://github.com/feynubrick/practice-express-cookie#readme",
+  "type": "module",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.17.3"
+  }
 }
